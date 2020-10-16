@@ -6,9 +6,32 @@
 </head>
 <body>
 <script>
-  let array='hoang lhe luu';
-  let s=array.toUpperCase();
-  document.write(s);
+  // let array='hoang lhe luu';
+  // let s=array.toUpperCase();
+  // document.write(s);
+
+  let str  = prompt("nhập tên ")
+  let UPPER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZĐƯÊ';
+  let LOWER = 'abcdefghijklmnopqrstuvwxyzđưê';
+  let result = [];
+
+  for(var x=0; x<str.length; x++)
+  {
+      if(UPPER.indexOf(str[x]) !== -1)
+      {
+          result.push(str[x].toLowerCase());
+      }
+      else if(LOWER.indexOf(str[x]) !== -1)
+      {
+          result.push(str[x].toUpperCase());
+      }
+      else
+      {
+          result.push(str[x]);
+      }
+  }
+  alert(result.join(''));
+
 </script>
 </body>
 </html>

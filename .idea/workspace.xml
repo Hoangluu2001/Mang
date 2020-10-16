@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71fb10b3-0d88-4f41-aec4-e924cbd2d3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BaiTuDien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuyenTap2Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baiTapGioLyThuyet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyenTap2Bai1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HamCoSan2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HamCoSan2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +69,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602639077322</updated>
       <workItem from="1602639078357" duration="22232000" />
-      <workItem from="1602725145430" duration="9155000" />
+      <workItem from="1602725145430" duration="10179000" />
+      <workItem from="1602743566710" duration="11350000" />
+      <workItem from="1602772995063" duration="1268000" />
     </task>
     <servers />
   </component>
@@ -83,11 +88,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="13" width="672" height="678" key="search.everywhere.popup" timestamp="1602645015357">
+    <state x="387" y="13" width="672" height="678" key="search.everywhere.popup" timestamp="1602773184111">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="387" y="13" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602645015357" />
+    <state x="387" y="13" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602773184111" />
   </component>
 </project>
