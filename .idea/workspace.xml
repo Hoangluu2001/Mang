@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71fb10b3-0d88-4f41-aec4-e924cbd2d3ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LuyenTap2Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiTapGioLyThuyet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luyenTap2Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HamCoSan2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HamCoSan2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hàm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,6 +69,7 @@
       <workItem from="1602725145430" duration="10179000" />
       <workItem from="1602743566710" duration="11350000" />
       <workItem from="1602772995063" duration="1268000" />
+      <workItem from="1602810398036" duration="777000" />
     </task>
     <servers />
   </component>
@@ -91,6 +89,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602815884759">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602815884759" />
     <state x="387" y="13" width="672" height="678" key="search.everywhere.popup" timestamp="1602773184111">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
